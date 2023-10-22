@@ -28,25 +28,3 @@ Secret and User Information: Each displayed secret is accompanied by the usernam
 
 Server-Side Rendering: The application uses server-side rendering with the EJS templating engine. The secrets and usernames fetched from the API are dynamically rendered into the HTML, creating a seamless user experience.
 
-# Hi, I'm Royal! 👋
-
-
-
-
-
-
-## 🛠 Skills
-
-
-**Programming Language:** C, C++, Java, Python
-
-**Front-end:** HTML, CSS, JavaScript ,React.js
-
-**Back-end:** Node.js, Express
-
-**Database:** MongoDB, MySQL
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/royaals/Personal-Portfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royal-s)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RoyalSalins?t=p5gofDCS1vnbUB89e_A_-A&s=09)
