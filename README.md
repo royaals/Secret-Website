@@ -2,7 +2,7 @@
 
 # Secret Website
 
-Whisper is a web application built on the Express.js framework and powered by the Axios library for making API requests. It aims to provide users with a platform to share and discover secrets anonymously. The application fetches random secrets from an external API and displays them to users, maintaining the privacy of the secret sharers. Users can enjoy the excitement of reading secrets without knowing the identity of the secret holders.
+Web application built on the Express.js framework and powered by the Axios library for making API requests. It aims to provide users with a platform to share and discover secrets anonymously. The application fetches random secrets from an external API and displays them to users, maintaining the privacy of the secret sharers. Users can enjoy the excitement of reading secrets without knowing the identity of the secret holders.
 
 
 ## Tech Stack
